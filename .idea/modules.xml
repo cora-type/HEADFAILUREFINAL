@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HEADFAILUREFINAL.iml" filepath="$PROJECT_DIR$/HEADFAILUREFINAL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/headfailurefinal.iml" filepath="$PROJECT_DIR$/.idea/modules/headfailurefinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/headfailurefinal-build.iml" filepath="$PROJECT_DIR$/.idea/modules/headfailurefinal-build.iml" />
     </modules>
   </component>
 </project>
